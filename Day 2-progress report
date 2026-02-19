@@ -1,0 +1,23 @@
+Day 02 Progress Report
+
+Date: 18/02/2026
+In Time: 09:00 AM
+Out Time: 04:00 PM
+Name: Mamta G. Gayakwad
+
+Progress Summary:
+
+- Created and linked external style.css file.
+-Applied basic CSS reset and global styling.
+-Designed navigation bar with proper alignment.
+-Styled the Home section with clean layout structure.
+-Added typography styling (font size, spacing, colors).
+-Implemented basic color palette for visual consistency.
+-Used Flexbox for layout alignment.
+-Improved spacing and section structure for better readability.
+
+Required Upgrades:
+
+- Improve button styling for better user interaction. 
+- Organized CCSS code into sections (Navbar, Home, Buttons).
+- Work on responsiveness using media queries.
